@@ -95,7 +95,7 @@ var BeautifulJekyllJS = {
   getImgInfo : function() {
     var randNum = Math.floor((Math.random() * BeautifulJekyllJS.numImgs) + 1);
     var src = BeautifulJekyllJS.bigImgEl.attr("data-img-src-" + randNum);
-    var desc = 'Delightful moments from conference trips - ' + BeautifulJekyllJS.bigImgEl.attr("data-img-desc-" + randNum);
+    var desc = 'Delightful views during conference trips - ' + BeautifulJekyllJS.bigImgEl.attr("data-img-desc-" + randNum);
 
     return {
       src : src,

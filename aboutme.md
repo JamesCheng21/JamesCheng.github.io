@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Enabling intelligent and high-performance buildings by integrating machine learning and digital twins
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sicheng Zhan, and my friends usually call me James. I completed my PhD and am currently a research fellow at <a href="https://cde.nus.edu.sg/dbe/">the Department of Built Environment, NUS</a>, working in the <a href="https://ideaslab.io/"> the Lab of Integrated Data, Energy Analysis + Simulation (IDEAS)</a>, led by <a href="https://cde.nus.edu.sg/dbe/wp-content/uploads/sites/26/2023/02/Staff-Resume-Dr-Adrian-Chong.pdf">Dr. Adrian Chong</a>. Before NUS, I did a MS in <a href="https://www.cmu.edu/cee/research/ais-research.html">Advanced Infrastructure System</a> at <a href='https://www.cmu.edu/cee/index.html'>Carnegie Mellon University</a> and a BS in Energy and Environment Systems Engineering at <a href='http://www.doe.zju.edu.cn/doeen/main.htm'>Zhejiang University</a>.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My work is centered around buildings, which hosts over 90% of our daily lives and has considerable potential of carbon reduction. Pursuing a more comfortable, intelligent, and energy-efficient built environment, my research interest lies in the intersection of building science and cutting-edge computational technology, including machine learning, physics-based modeling, and optimization. I specifically emphasize on the practical value of research outcomes, and closely collaborate with our industrial partners, such as <a href='https://www.merl.com/'>Mitsubishi Electric Research Laboratories<a/>, <a href='https://www.kajima.co.jp/english/tech/katris/index.html'>Kajima Technical Research Institute<a/>, and <a href='https://www.johnsoncontrols.com/en_sg'>Johnson Controls</a>.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Outside of the built environment, I am an enthusiast for basketball and wild nature. I explore the earth by photography, mountaineering, and scuba diving.
