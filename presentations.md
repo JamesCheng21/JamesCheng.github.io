@@ -5,6 +5,9 @@ title: Talks
 
 Invited Talks
 ---
+Application-oriented performance evaluation of digital twins for buildings<br>
+*IBPSA Workshop 2, Sept 2023*[[Slides]](/assets/slides/workshop_Sicheng.pdf){: .btn}  
+
 Digital twin for buildings: identification, calibration, and applications<br>
 *Bosch Corporate Research, June 2023*[[Slides]](/assets/slides/20230608.pdf){: .btn}  
 
@@ -22,6 +25,9 @@ Building Energy Benchmarking Based on Time-Series Smart Meter Data<br>
 
 Peer-reviewed Conferences
 ---
+A Virtual Testbed for Robust and Reproducible Calibration of Building Energy Simulation Models<br>
+*Building Simulation 2023, Sept 2023*[[Slides]](/assets/slides/1482.pdf){: .btn}[[Paper]](/assets/pdf/1482_Zhan.pdf){: .btn}
+
 Comparing model predictive control and reinforcement learning for the optimal operation of building-PV-battery systems<br>
 *IAQVEC 2023, May 2023*[[Slides]](/assets/slides/iaqvec2023.pdf){: .btn}
 

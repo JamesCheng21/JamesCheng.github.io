@@ -37,5 +37,6 @@ Peer-review
 
 Conference organizing
 ---
+- Building Simulation 2023: Session Chair
 - BuildSys 2023: Program Committee
 - BALANCE 2023: Co-Chair of Program Committee
