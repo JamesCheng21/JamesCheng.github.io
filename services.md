@@ -34,9 +34,11 @@ Peer-review
 - Journal of Energy and Power Technology
 - Building Simulation 2023
 - BuildSys 2023
+- Indoor Air 2024
 
 Conference organizing
 ---
 - Building Simulation 2023: Session Chair
 - BuildSys 2023: Program Committee
 - BALANCE 2023: Co-Chair of Program Committee
+- Indoor Air 2024: Scientific Committee

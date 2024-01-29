@@ -5,6 +5,10 @@ title: Talks
 
 Invited Talks
 ---
+
+Towards reliable digital twins applications in buildings: a data perspective<br>
+*University of Nottingham Ningbo China, Nov 2023*
+
 Application-oriented performance evaluation of digital twins for buildings<br>
 *IBPSA Workshop 2, Sept 2023*[[Slides]](/assets/slides/workshop_Sicheng.pdf){: .btn}  
 
