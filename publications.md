@@ -7,6 +7,12 @@ You can also browse my <a href="https://scholar.google.com/citations?user=XvWcVv
 
 ---
 
+[Bridging performance gap for existing buildings: the role of calibration and the cascading effect](https://link.springer.com/journal/12273)<br>**S Zhan**, M Zhu, S Cheng, A Chong<br>*Building Simulation, 2024*
+
+[Energy flexibility quantification of a tropical net-zero office building using physically consistent neural network-based model predictive control](https://www.sciencedirect.com/science/article/pii/S2666792424000052)<br>W Liang, H Li, **S Zhan**, A Chong, T Hong<br>*Advances in Applied Energy, 2024*
+
+[Experimental evaluation of thermal adaptation and transient thermal comfort in a tropical mixed-mode ventilation context](https://www.sciencedirect.com/science/article/abs/pii/S0360132323010703)<br>Y Lei, ZD Tekler, **S Zhan**, C Miller, A Chong<br>*Building and Environment, 2024*
+
 [Improving energy flexibility and PV self-consumption for a tropical net zero energy office building](https://www.sciencedirect.com/science/article/abs/pii/S0378778822007770)<br>**S Zhan**, B Dong, A Chong<br>*Energy and Buildings, 2023*
 
 [ROBOD, room-level occupancy and building operation dataset](https://link.springer.com/article/10.1007/s12273-022-0925-9)<br>ZD Tekler, E Ono, Y Peng, **S Zhan**, B Lasternas, A Chong<br>*Building Simulation, 2022*

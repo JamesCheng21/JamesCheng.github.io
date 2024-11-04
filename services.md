@@ -28,8 +28,10 @@ Final year undergraduate students:
 
 Peer-review
 ---
+- Applied Energy
 - Energy and Building
 - Building Simulation
+- Energy Efficiency
 - Chemical and Process Engineering
 - Journal of Energy and Power Technology
 - Building Simulation 2023
@@ -40,5 +42,5 @@ Conference organizing
 ---
 - Building Simulation 2023: Session Chair
 - BuildSys 2023: Program Committee
-- BALANCE 2023: Co-Chair of Program Committee
+- ACM BALANCE Workshop: Co-Chair of Program Committee
 - Indoor Air 2024: Scientific Committee
