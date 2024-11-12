@@ -34,7 +34,7 @@ Peer-review
 - Energy Efficiency
 - Chemical and Process Engineering
 - Journal of Energy and Power Technology
-- Building Simulation 2023
+- Building Simulation 2023, 2025
 - BuildSys 2023
 - Indoor Air 2024
 
